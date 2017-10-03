@@ -1,4 +1,4 @@
-# React ES6 Webpack Boilerplate
+# React ES6 Webpack Boilerplate with react router. 
 
 Boilerplate for kick starting a project with the following technologies:
 * [React](https://github.com/facebook/react)
